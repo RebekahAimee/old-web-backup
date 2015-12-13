@@ -1,0 +1,131 @@
+body {
+	background-color: #669933;
+	}
+	
+#header {
+	border-width: medium;
+	border-style: solid;
+	border-color: #8B4513;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	margin-right: 20%;
+	margin-left: 20%;
+	}
+	
+#navbar {
+	text-align: center;
+	}
+	
+#about {
+	border-width: thin;
+	border-style: solid;
+	border-color: blanchedalmond;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	width: 200px;
+	background: saddlebrown;
+	float: left;
+	margin-bottom: 10px;
+	}
+
+#notes {
+	border-width: thin;
+	border-style: solid;
+	border-color: saddlebrown;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	width: 200px;
+	background: blanchedalmond;
+	float: right;
+	margin-bottom: 10px;
+	}
+	
+#mainportion {
+	background: #ffcc66;
+	border-width: thin;
+	border-style: solid;
+	border-color: saddlebrown;
+	margin-right: 245px;
+	margin-left: 245px;
+	margin-bottom: 7px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	}
+	
+#footer {
+	background: blanchedalmond;
+	clear: left;
+	clear: right;
+	text-align: center;
+	border-width: thin;
+	border-style: solid;
+	border-color: saddlebrown;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	}
+	
+h1 {
+	text-align: center;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	color: blanchedalmond;
+	}
+	
+h2 {
+	}
+
+h3 {
+	color: #663300;
+	font-family: Garamond, Book Antiqua, Bookman Old Style, Georgia, serif;
+	}
+	
+#about h3 {
+	color: blanchedalmond;
+	font-family: Garamond, Book Antiqua, Bookman Old Style, Georgia, serif;
+	}
+	
+h3.tagline {
+	color: saddlebrown;
+	font-family: Book Antiqua, Bookman Old Style, Garamond, Georgia, serif;
+	text-align: center;
+	}
+	
+p {
+	color: #663300;
+	font-family: Book Antiqua, Garamond, Bookman Old Style, Georgia, serif;
+	}
+
+#about p {
+	color: blanchedalmond;
+	font-family: Book Antiqua, Bookman Old Style, Garamond, Georgia, sans-serif;
+	}
+	
+#footer p {
+	color: #663300;
+	font-family: adobe-garamond-pro-1, adobe-garamond-pro-2, Garamond, Book Antiqua, Bookman Old Style, Georgia, serif
+	font-weight: bold;
+	}
+	
+A:LINK {
+	color: #669933;
+	text-decoration: none;
+	}
+	
+A:HOVER {
+	color: #669933;
+	text-decoration: underline;
+	}
+	
+A:ACTIVE {
+	color: #66FFFF;
+	text-decoration: underline;
+	}
+	
+A:VISITED {
+	color: #33CC99;
+	text-decoration: none;
+	}

@@ -1,0 +1,105 @@
+body {
+	background-color: #cccc66;
+	}
+	
+h1 {
+	color: darkgreen;
+	font-weight: bold;
+	font-family: Garamond, Bookman Antiqua, Georgia, serif;
+	}
+	
+h2 {
+	color: forestgreen;
+	font-weight: bold;
+	font-family: Garamond, Bookman Antiqua, Georgia, serif;
+	}
+
+h3 {
+	color: #8B4513;
+	font-weight: bold;
+	font-family: Garamond, Bookman Antiqua, Georgia, serif;
+	}
+	
+h6 {
+	font-size: 10pt;
+	color: blanchedalmond;
+	font-family: Garamond, Bookman Antiqua, Georgia, serif;
+	}
+	
+p {
+	color: #332211;
+	font-family: Garamond, Bookman Antiqua, Georgia, serif;
+	}
+	
+#header {
+	border-width: thick;
+	border-style: solid;
+	border-color: #8B4513;
+	margin-right: 20%;
+	margin-left: 20%;
+	background-color: blanchedalmond;
+	text-align: center;
+	}
+	
+#limerick {
+	border-width: thick;
+	border-style: solid;
+	border-color: #8B4513;
+	background-color: #996633;
+	width: 25%;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-align: center;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	float: left;
+	}
+	
+#mainportion {
+	background-color: blanchedalmond;
+	border-width: thick;
+	border-color: #8B4513;
+	border-style: solid;
+	margin-right: 2%;
+	margin-left: 30%;
+	margin-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	}
+	
+#sidebar {
+	background-color: forestgreen;
+	border-width: thick;
+	border-color: #8B4513;
+	border-style: solid;
+	width: 25%;
+	margin-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	float: left;
+	clear: both;
+	}
+
+#sidebar p {
+	color: blanchedalmond;
+	}
+	
+#sidebar h3 {
+	color: blanchedalmond;
+	font-weight: bold;
+	}
+	
+img.standaloneimage {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+	
+	
+	
